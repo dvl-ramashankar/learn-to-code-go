@@ -1,0 +1,10 @@
+
+1. Open the bash terminal and run the following command
+
+ shasum -a 256 formList.json
+
+2. Copy the checksum printed on console by running step 1 command.
+
+3. Make some changes in the file and follow the same step 1.
+
+4. Compare the check of step 3 and step 1. There checksum will be different.
