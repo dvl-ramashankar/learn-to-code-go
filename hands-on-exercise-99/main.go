@@ -1,3 +1,4 @@
+// custom error handling
 package main
 
 import (
