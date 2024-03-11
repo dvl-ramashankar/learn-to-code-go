@@ -1,6 +1,7 @@
 package main
 
 import (
+	"exercises/hands-on-exercise-100/dog"
 	"fmt"
 )
 
